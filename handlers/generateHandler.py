@@ -2,7 +2,7 @@ import openai
 import time
 import handlers.app as app
 
-openai.api_key = "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"
+openai.api_key = "key"
 
 model_engine = "text-davinci-003" 
 max_tokens = 1024 
