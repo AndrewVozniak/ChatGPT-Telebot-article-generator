@@ -1,7 +1,7 @@
 import telebot
 import handlers.generateHandler as gen
 
-bot_token = "5823067057:AAH2cOiLIzKDdp5C0XNV4Mex8gdFZKQgkac"
+bot_token = "token"
 bot = telebot.TeleBot(bot_token)
 
 
